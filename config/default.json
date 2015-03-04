@@ -1,0 +1,10 @@
+{
+    "apicid": "1123",
+    "apikey": "20d141eb-5559-49d8-bc55-8f732d650dce",
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "hauskonf"
+    }
+}

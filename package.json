@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1.14",
+    "bluebird": "^2.9.9",
+    "config": "^1.11.0",
+    "lodash": "^3.2.0",
+    "noble": "^0.3.9",
+    "nomnom": "^1.8.1"
+  }
+}
